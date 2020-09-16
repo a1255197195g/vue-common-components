@@ -4,7 +4,7 @@
  * @Autor: in hengqi by mengze 
  * @Date: 2020-09-12 15:32:40
  * @LastEditors: in hengqi by mengze
- * @LastEditTime: 2020-09-12 17:31:29
+ * @LastEditTime: 2020-09-14 13:01:28
 -->
 <template>
   <div id="app">
@@ -31,7 +31,7 @@ export default {
 <style lang="less">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  width: 500px;
+  width: 800px;
   margin: 30px auto 10px;
 }
 
